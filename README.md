@@ -1,3 +1,3 @@
 # Tenzies dice game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Url: https://grand-dusk-bde740.netlify.app/
