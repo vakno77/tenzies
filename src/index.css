@@ -9,7 +9,7 @@ body {
   font-family: 'Karla', sans-serif;
 }
 
-main{
+.absolute-wrapper{
   position: absolute;
   top: 50%;
   left: 50%;
